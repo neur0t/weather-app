@@ -38,6 +38,5 @@ redirected to /docs
 
 
 
-!!!!!!!!!!!!Those endpoints need authantication from a Token!!!!!!!!!!!!!!!!!!!
-If I gave you the Token, you can authenticate yourself at /docs
-and use the API 
+!!!!!!!!!!!!!!These endpoints require authentication using a token.!!!!!!!!!!!!!
+If I provide you with the token, you can authenticate in /docs and use the API.
