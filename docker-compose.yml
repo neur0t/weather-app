@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  weather-app:
+    build: .
+    container_name: weather
+    ports:
+      - "8000:8000"
+    environment:
+      - TOKEN=mysecrettoken
